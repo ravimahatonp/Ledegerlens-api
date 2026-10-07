@@ -11,3 +11,5 @@ htmlcov/
 contracts/**/target/
 Cargo.lock
 contracts/**/test_snapshots/
+config.bat
+node_modules
